@@ -1,4 +1,4 @@
-# 🚀 Daily Tech Pulse: September 09, 2026
+# 🚀 Daily Tech Pulse: September 10, 2026
 > Automated news extraction for the Semiconductor & Quantum industries.
 
 ## Semiconductor Updates
@@ -13,13 +13,22 @@
 
 ---
 ## Quantum Updates
-* **[IonQ Uses Investor Day to Detail Superion Roadmap, SkyWater Strategy and Quantum Security Plans](https://thequantuminsider.com/2026/09/08/ionq-uses-investor-day-to-detail-superion-roadmap-skywater-strategy-and-quantum-security-plans/)** 
-  _Tue, 08 Sep 2026 18:45:21 +0000_
+* **[Quantinuum Demonstrates Helix Quantum Error Correction Architecture on Helios Hardware](https://quantumcomputingreport.com/quantinuum-demonstrates-helix-quantum-error-correction-architecture-on-helios-hardware/)** 
+  _Thu, 10 Sep 2026 00:01:58 +0000_
 
-* **[Quantum Startups Among 16 Finalists Selected for Constructor Start Demo Day](https://thequantuminsider.com/2026/09/08/quantum-startups-among-16-finalists-selected-for-constructor-start-demo-day/)** 
-  _Tue, 08 Sep 2026 14:14:53 +0000_
+* **[Quantinuum Finalizes $100 Million CHIPS Act R&D Award to Accelerate Trapped-Ion Manufacturing](https://quantumcomputingreport.com/quantinuum-finalizes-100-million-chips-act-rd-award-to-accelerate-trapped-ion-manufacturing/)** 
+  _Wed, 09 Sep 2026 23:46:18 +0000_
 
-* **[QUDORA Joins EuroHPC Quantum Grand Challenge With Near Field Quantum Control Project](https://thequantuminsider.com/2026/09/08/qudora-selected-eu-quantum-grand-challenge-near-field-quantum-control/)** 
-  _Tue, 08 Sep 2026 13:37:10 +0000_
+* **[PsiQuantum Executes Definitive $100 Million CHIPS Act Award with U.S. Department of Commerce](https://quantumcomputingreport.com/psiquantum-executes-definitive-100-million-chips-act-award-with-u-s-department-of-commerce/)** 
+  _Tue, 08 Sep 2026 19:14:04 +0000_
+
+* **[a16z Crypto Rebuilds Jolt Proof System With Post-Quantum Security And Faster Performance](https://thequantuminsider.com/2026/09/09/a16z-crypto-rebuilds-jolt-proof-system-with-post-quantum-security-and-faster-performance/)** 
+  _Wed, 09 Sep 2026 16:53:52 +0000_
+
+* **[Former IBM Executive Joerg Behrend Joins Q.ANT as VP Hardware](https://thequantuminsider.com/2026/09/09/q-ant-appoints-joerg-behrend-vice-president-hardware/)** 
+  _Wed, 09 Sep 2026 14:36:25 +0000_
+
+* **[Former Google Executive Gina Fratarcangeli Joins Qtonic Quantum](https://thequantuminsider.com/2026/09/09/former-google-executive-gina-fratarcangeli-joins-qtonic-quantum/)** 
+  _Wed, 09 Sep 2026 14:18:06 +0000_
 
 ---
